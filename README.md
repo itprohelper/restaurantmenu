@@ -1,6 +1,6 @@
-# OAuth2.0
+# Restaurant Menu Sample
 Starter Code for Auth&amp;Auth course
-# Installing the Vagrant VM for ud330 - Authentication & Authorization
+# I did not use Vagrant for this project. I used a Digital Ocean droplet and using docker on top. DO NOT use Vangrant to follow my example.
 
 **Note: If you already have a vagrant machine installed from previous Udacity courses skip to the 'Fetch the Source Code and VM Configuration' section**
 
